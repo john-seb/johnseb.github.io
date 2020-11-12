@@ -9,6 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-<object data="CV-John_Sebastian_Nov2020.pdf" type="application/pdf">
-    <embed src="CV-John_Sebastian_Nov2020.pdf" type="application/pdf" />
-</object>
+#<iframe style="width:100%;height:500px" src="http://www.mysite.co.uk/libs/pdfjs/web/viewer.html?file="http://academicpages.github.io/files/paper3.pdf"></iframe>
+<iframe style="width:100%;height:500px" file="http://academicpages.github.io/files/paper3.pdf"></iframe>

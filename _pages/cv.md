@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% http://john-seb.github.io/files/CV-John_Sebastian_Nov2020.pdf %}
+{http://john-seb.github.io/files/CV-John_Sebastian_Nov2020.pdf}
 
 <body>
       <h1></h1>

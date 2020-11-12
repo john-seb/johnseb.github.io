@@ -7,9 +7,12 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{% http://john-seb.github.io/files/CV-John_Sebastian_Nov2020.pdf %}
 
-#<iframe style="width:100%;height:500px" src="http://www.mysite.co.uk/libs/pdfjs/web/viewer.html?file="http://academicpages.github.io/files/paper3.pdf"></iframe>
-<iframe style="width:100%;height:500px" file="http://academicpages.github.io/files/paper3.pdf"></iframe>
+<body>
+      <h1></h1>
+      <p>
+         You can download a PDF copy of my CV <a href="http://john-seb.github.io/files/CV-John_Sebastian_Nov2020.pdf">here.</a>
+      </p>
+   </body>
 
-You can download a PDF copy of my CV here.

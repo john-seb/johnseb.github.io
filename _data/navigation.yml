@@ -5,12 +5,8 @@ main:
     url: /projects/
 
   - title: "Presentations"
-    url: /talks/    
-
-  - title: "Workshops"
-    url: /teaching/    
-    
-        
+    url: /talks/      
+      
   - title: "Blog"
     url: /posts/
     

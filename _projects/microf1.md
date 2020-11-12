@@ -9,7 +9,7 @@ location: "College of Engineering, Trivandrum"
 ---
  
  
- <object data="/files/proj_microf1.pdf" type="application/pdf" width="700px" height="700px">
+ <object data="/files/proj_microf1.pdf" type="application/pdf" width="700px" height="300>
     <embed src="/files/proj_microf1.pdf">
     </embed>
 </object>

@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "john-seb"
+  #github           : "john-seb"
   google_plus      :
   keybase          :
   instagram        : "i.john.sebastian"
  # impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/john-sebastian/"
-  orcid            : "http://orcid.org/yourorcidurl"
+ # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+#  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "johnmcseb"
+  #twitter          : "johnmcseb"
   vine             :
   weibo            :
   xing             :

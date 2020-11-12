@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/hydrofoil
 venue: "The Institution of Engineering and Technology (IET)"
-date: 2016-04-19
+date: 2016-09-22
 location: "College of Engineering, Trivandrum"
 ---
  

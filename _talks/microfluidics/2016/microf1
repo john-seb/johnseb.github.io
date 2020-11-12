@@ -7,7 +7,5 @@ venue: "The Institution of Engineering and Technology (IET)"
 date: 2016-04-19
 location: "College of Engineering, Trivandrum"
 ---
-
-<body>
   <embed src="/files/Microfluidics for the World.pdf" type="application/pdf" width="100%" height="100%"/>
-</body>
+

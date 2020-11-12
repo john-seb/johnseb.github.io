@@ -1,7 +1,5 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
  
   - title: "Projects"
     url: /projects/
@@ -12,14 +10,10 @@ main:
   - title: "Workshops"
     url: /teaching/    
     
-  - title: "Gallery"
-    url: /gallery/
         
-  - title: "Travel Blog"
+  - title: "Blog"
     url: /storygrapher/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/

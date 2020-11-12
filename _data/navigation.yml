@@ -2,18 +2,21 @@
 main:
   - title: "Publications"
     url: /publications/
+ 
+  - title: "Projects"
+    url: /projects/
 
-  - title: "Talks"
+  - title: "Presentations"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Workshops"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Gallery"
+    url: /gallery/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Travel Blog"
+    url: /storygrapher/
     
   - title: "CV"
     url: /cv/

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "John Sebastian"
 title_separator          : "-"
 name                     : &name "John Sebastian"
-description              : &description "Researcher"
+description              : &description ""
 url                      : https://john-seb.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "john-seb/john-seb.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "John Sebastian"
   avatar           : "john.png"
-  bio              : "Researcher - Engineer"
+  bio              : ""
   #location         : "Location"
   #employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

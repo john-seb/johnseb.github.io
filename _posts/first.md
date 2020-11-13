@@ -1,6 +1,6 @@
 ---
 title: 'Sample Post'
-date: 2199-01-01
+date: 2017-05-01
 permalink: /posts/
 tags:
   - fist post

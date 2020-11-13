@@ -4,7 +4,7 @@ collection: projects
 type: "Project"
 permalink: /projects/microfluidics/
 venue: "Nano/ Microfluidics Research Laboratory"
-date: 2016
+date: 2016-09-30
 location: "College of Engineering, Trivandrum"
 ---
  

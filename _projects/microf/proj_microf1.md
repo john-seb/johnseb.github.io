@@ -1,9 +1,14 @@
------
-Title: Low Cost and Rapid Fabrication of Microfluidic Channels
-Collection: "Projects"
-Tags: "microf"
-
 ---
+title: "Low Cost and Rapid Fabrication of Microfluidic Channels"
+collection: projects
+type: "Project"
+tags: "microF"
+permalink: /projects/microf/
+venue: "Nano/ Microfluidics Research Lab"
+date: 2016-11-10
+location: "College of Engineering, Trivandrum"
+---
+
 I was fortunate to have worked with Prof Ranjith Kumar, in the Nano/ Microfluidics Research Lab from its inception. In fact, I was the only undergrad in the lab! This however, also meant that the project had to be as lean as possible.
 
 

@@ -84,7 +84,7 @@ author:
   avatar           : "john.png"
   bio              : ""
   #location         : "Location"
-  employer         : "https://john-seb.github.io/files/CV-John_Sebastian_Nov2020.pdf"
+  #employer         : "https://john-seb.github.io/files/CV-John_Sebastian_Nov2020.pdf"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "4johnsebastian@gmail.com"
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  cv               : "https://john-seb.github.io/files/CV-John_Sebastian_Nov2020.pdf"
 
 
 # Reading Files

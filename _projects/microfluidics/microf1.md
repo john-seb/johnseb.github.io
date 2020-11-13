@@ -2,7 +2,7 @@
 title: "microF: Low Cost and Rapid Fabrication of Microfluidic Channels"
 collection: projects
 type: "Project"
-permalink: /projects/microfluidics/2016
+permalink: /projects/microfluidics/
 venue: "Nano/ Microfluidics Research Laboratory"
 date: 2016
 location: "College of Engineering, Trivandrum"

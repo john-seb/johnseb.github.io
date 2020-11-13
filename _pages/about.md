@@ -9,5 +9,6 @@ redirect_from:
 ---
 
 
-Hello! I am a scientist and engineer interested in pursuing interdisciplinary research in biophysics, soft matter and composite materials, and complex systems. My research has been on developing experimental and computational methods to study the geometry of airfoils, deformation of tyres. I aim to develop methods and tools to aid the study of nature and to solve unmet global challenges.
+Hello! I am a scientist and engineer pursuing interdisciplinary research in biophysics, soft matter and composite materials, and complex systems. A common thread in my research is looking for the relation between the geometry and associated physics- especially of air/ hydrofoils, tyres, materials and microfluidic systems. I aim to develop technologies and tools to aid the study of the natural world around us, for engineering of biology and to build solutions to unmet societal needs.
+
 

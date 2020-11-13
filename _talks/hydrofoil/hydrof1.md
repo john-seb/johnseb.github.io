@@ -1,6 +1,7 @@
 ---
-title: "hydroF: DESIGN AND NUMERICAL STUDY OF HYDROFOILS"
+title: "DESIGN AND NUMERICAL STUDY OF HYDROFOILS"
 collection: talks
+tags: hydroF
 type: "Talk"
 permalink: /talks/hydrofoil
 venue: "The Institution of Engineering and Technology (IET)"

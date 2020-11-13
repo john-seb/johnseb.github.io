@@ -15,7 +15,4 @@ location: "College of Engineering, Trivandrum"
     </embed>
 </object>
 
-a[href$="/files/hydrof1.pdf"] {
-<i class="far fa-file-pdf"></i>
-  padding-left: 2px;
-}
+

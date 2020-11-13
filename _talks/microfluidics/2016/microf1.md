@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/microfluidics/2016
 venue: "The Institution of Engineering and Technology (IET)"
-date: 2016-04-19
+date: 2016-04-19 11:30:00 +0800
 location: "College of Engineering, Trivandrum"
 ---
  
